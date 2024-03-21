@@ -1,7 +1,3 @@
-Buenas tardes Michal, felicidades por haber llegado al CheckPoint 7, te comento lo que vas a realizar... Este checkpoint vamos a seguir con la dinámica del checkpoint anterior, necesito que realices una documentación sobre lo conceptos que te proporcionare, recuerda debes ser lo más claro y comprensible posible, estas creando un material que lo visualizarán personas que recién inician en el mundo del desarrollo por lo tanto debes también sustentarlo con ejemplos, porque se utiliza, para que se utiliza, sintaxis, etc…
-
-Los conceptos son los siguientes:
-
 **¿Qué diferencia a Javascript de cualquier otro lenguaje de programación?**
 
 Lo que distingue a JavaScript de muchos otros lenguajes de programación es su naturaleza multiparadigma y su uso predominante en el desarrollo web. A diferencia de otros lenguajes que están más orientados a un paradigma específico (como Python, que es principalmente imperativo y orientado a objetos), JavaScript combina aspectos de programación imperativa, orientada a objetos y funcional. Esto le brinda a los desarrolladores una flexibilidad única para adaptarse a diferentes estilos de programación según las necesidades del proyecto.
