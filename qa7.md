@@ -24,7 +24,7 @@ let decimal = 3.14;         // Número decimal
 let texto = "Hola mundo";   // Cadena de texto
 let booleano = true;        // Valor booleano (verdadero/falso)
 let array = [1, 2, 3];      // Array (lista de elementos)
-let objeto = {              // Objeto (closure)
+let objeto = {              // Objeto 
   nombre: "Juan",
   edad: 30
 };
